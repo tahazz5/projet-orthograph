@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "list.h": "c",
+        "dictionary.h": "c",
+        "string.h": "c",
+        "stdbool.h": "c",
+        "arbresuffixe.h": "c",
+        "type_traits": "c",
+        "arbre.h": "c",
+        "dictionaire_tools.h": "c"
+    }
+}
