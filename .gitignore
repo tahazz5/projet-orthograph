@@ -1,0 +1,8 @@
+# Generated executables and compiler outputs
+/bin/*
+/sq
+/suf
+*.o
+*.gch
+*~
+__pycache__/
